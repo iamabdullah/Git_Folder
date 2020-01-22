@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<report metrics_available="false" success="notexecuted" tessy_version="4.2.5" xml_version="5">
+    <statistic notexecuted="0" notok="0" ok="0" total="0">
+        <category count="0" name="ok"/>
+        <category count="0" name="notok"/>
+        <category count="0" name="notexecuted"/>
+    </statistic>
+    <info date="2020-01-21" time="18:38:08+0530"/>
+    <settings>
+        <instrumentation instrumentation_type="Test Object Only"/>
+        <actions check_interface="false" create_new_testrun="false" execute_test="false" generate_driver="false" retry_aborted_execution="false"/>
+    </settings>
+    <selected_objects>
+        <selected_object name="Jenkins" type="test_collection"/>
+    </selected_objects>
+    <used_environments/>
+    <tessyobject id="1024" level="0" name="Jenkins" success="notexecuted" type="project">
+        <testcase_statistics notexecuted="0" notok="0" ok="0" success="notexecuted" total="0"/>
+    </tessyobject>
+</report>
